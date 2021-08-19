@@ -25,3 +25,9 @@
 .parrafos {
     padding: 30px;
 }
+.header__titulo{
+    padding: 10px;
+}
+.parrafos > p{
+    padding: 5px;
+}
