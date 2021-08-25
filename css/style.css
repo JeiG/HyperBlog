@@ -42,3 +42,16 @@ body{
 .parrafos > p{
     padding: 5px;
 }
+.footer{
+    width: 70%;
+    display: flex;
+    background-color: #505050;
+    color: #ffffff;
+    font-size: 30px;
+    margin: 0 auto;
+    justify-content: center;
+    border-radius: 15px;
+}
+.footer > p{
+    margin: 10px;
+}
