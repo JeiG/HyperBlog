@@ -45,12 +45,13 @@ body{
 .footer{
     width: 70%;
     display: flex;
-    background-color: #505050;
+    background-color: #384c87;
     color: #ffffff;
     font-size: 30px;
-    margin: 0 auto;
+    margin: 20px auto;
     justify-content: center;
     border-radius: 15px;
+    box-shadow: 0px -10px 10px #ffffff;
 }
 .footer > p{
     margin: 10px;
